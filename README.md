@@ -1,2 +1,1 @@
-# second-day
-Second class activity
+Boot camp code
